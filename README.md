@@ -2,7 +2,7 @@
 <span align="right"><img src="https://komarev.com/ghpvc/?username=ferdousulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="ferdousulhaque" /></span>
 <h3 align="left">By profession and passion a software engineer </h3>
 
-- 💂‍♂️ I'm Fullstack Developer, currently serving as a **Lead Software Engineer at Portonics Ltd.**.
+- 💂‍♂️ I consider myself as a Solution Architect and real world problem solver, currently serving as a **Digital Solutions and Services Lead Software Engineer at Banglalink Digital Communications Ltd.**. My job is to transform proof of concept to real world product with cutting edge technologies.
 
 - 🔭 I’m looking to collaborate on **Open Source Projects**
 
