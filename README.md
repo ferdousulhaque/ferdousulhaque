@@ -2,13 +2,13 @@
 <span align="right"><img src="https://komarev.com/ghpvc/?username=ferdousulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="ferdousulhaque" /></span>
 <h3 align="left">By profession and passion a software engineer </h3>
 
-- 💂‍♂️ I consider myself as a Solution Architect and real world problem solver, currently serving as a **Digital Solutions and Services Lead Software Engineer at Banglalink Digital Communications Ltd.**. My job is to transform proof of concept to real world product with cutting edge technologies.
+- 💂‍♂️ I consider myself as a Solution Architect and real world problem solver, currently serving as a **Digital Solutions and Services Lead Engineer at Banglalink Digital Communications Ltd.**. My job is to transform proof of concept to real world product with cutting edge technologies.
 
 - 🔭 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [medium.com, dev.to](medium.com, dev.to)
+- 📝 I regularly write articles on [medium.com](medium.com), [dev.to](dev.to)
 
-- 📫 How to reach me **ferdousul.haque@gmail.com**
+- 📫 Reach me at **ferdousul.haque@gmail.com**
 
 ![Ferdous's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdousulhaque&theme=ayu-mirage&show_icons=true)
 
@@ -21,6 +21,8 @@
 <p align="left">
 <a href="https://codeforces.com/profile/ferdousul.haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ferdousul.haque" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/decipher21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="decipher21" height="30" width="40" /></a>
+<a href="https://lightoj.com/user/decipher21" target="blank"><img align="center" src="https://raw.githubusercontent.com/ferdousulhaque/ferdousulhaque/main/icons/loj-logo-inverted.png" alt="decipher21" height="30" width="45" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
