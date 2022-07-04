@@ -6,7 +6,7 @@
 
 - 🔭 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [medium.com](medium.com), [dev.to](dev.to)
+- 📝 I regularly write articles on [medium.com](https://medium.com), [dev.to](https://dev.to)
 
 - 📫 Reach me at **ferdousul.haque@gmail.com**
 
