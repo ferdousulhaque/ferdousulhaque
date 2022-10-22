@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ferdous</h1>
-<span align="right"><img src="https://komarev.com/ghpvc/?username=ferdousulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="ferdousulhaque" /></span>
+<span align="right"><img src="https://komarev.com/ghpvc/?username=ferdousulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="ferdousulhaque" /> <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fferdousulhaque&logo=leetcode&logoColor=yellow" alt="ferdousulhaque" /></span>
 <h3 align="left">By profession and passion a software engineer </h3>
 
 - 💂‍♂️ I consider myself as a Solution Architect and real world problem solver, currently serving as a **Digital Solutions and Services Lead Engineer at Banglalink Digital Communications Ltd.**. My job is to transform proof of concept to real world product with cutting edge technologies.
