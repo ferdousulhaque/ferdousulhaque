@@ -18,6 +18,8 @@ I have 10+ years of experience in software industry and follower of best practic
 
 ![Ferdous's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdousulhaque&theme=ayu-mirage&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdousulhaque&layout=compact&theme=ayu-mirage)](https://github.com/ferdousulhaque/ferdousulhaque)
+
 <h3 align="left">Blogger Profile:</h3>
 <p align="left">
 <a href="https://medium.com/@ferdousul-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ferdousul-haque" height="30" width="40" /></a>
