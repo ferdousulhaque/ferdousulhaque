@@ -4,10 +4,10 @@
 
 - I am a tech enthusiast and real world problem solver with technology. Currently serving as a Digital Solutions and Services Lead Engineer at Banglalink Digital Communications Ltd. (VEON Group), one of the leading telecom industry in Bangladesh. I have worked for:
 
-    - Grameenphone on myGP mobile app [as SWE]
-    - Telenor Myanmar on myTelenor mobile app, currently Atom [as Tech Lead]
-    - Telenor DTAC on DtacApp mobile app [as Tech Lead]
-    - Banglalink on API Gateway[as Lead Engineer] [Website](https://openapi.banglalink.net)
+    - Grameenphone on myGP mobile app [as SWE] [App](https://apps.apple.com/sb/app/mygp-bangladesh/id1128691313)
+    - Telenor Myanmar on myTelenor mobile app, currently Atom [as Tech Lead] [App](https://apps.apple.com/rs/app/atom-store-myanmar/id1635954563)
+    - Telenor DTAC on DtacApp mobile app [as Lead SWE] [App](https://apps.apple.com/us/app/dtac/id366758142)
+    - Banglalink on API Gateway[as Lead SWE] [Website](https://openapi.banglalink.net)
     - Banglalink on Corporate Customers Selfcare App [as Lead SWE] [Website](https://corporatecare.banglalink.net)
     - Banglalink on Closed Feedback Loop Survey App [as Lead SWE] [Website](https://cfl.banglalink.net)
 
