@@ -7,9 +7,9 @@
     - Grameenphone on myGP mobile app [as SWE]
     - Telenor Myanmar on myTelenor mobile app, currently Atom [as Tech Lead]
     - Telenor DTAC on DtacApp mobile app [as Tech Lead]
-    - Banglalink on API Gateway[as Lead Engineer] [Website](https://openapi.banglalin.net)
-    - Banglalink on Corporate Customers Selfcare App [as Lead SWE] [Website](https://corporatecare.banglalin.net)
-    - Banglalink on Closed Feedback Loop Survey App [as Lead SWE] [Website](https://cfl.banglalin.net)
+    - Banglalink on API Gateway[as Lead Engineer] [Website](https://openapi.banglalink.net)
+    - Banglalink on Corporate Customers Selfcare App [as Lead SWE] [Website](https://corporatecare.banglalink.net)
+    - Banglalink on Closed Feedback Loop Survey App [as Lead SWE] [Website](https://cfl.banglalink.net)
 
 I have 10+ years of experience in software industry and follower of best practices of Software Engineering
 
