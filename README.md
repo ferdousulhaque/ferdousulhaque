@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Ferdous</h1>
 <span align="right"><img src="https://komarev.com/ghpvc/?username=ferdousulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="ferdousulhaque" /> <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fferdousulhaque&logo=leetcode&logoColor=yellow" alt="ferdousulhaque" /></span>
-<h3 align="left">A passionate Software Engineer who Leads</h3>
+<h3 align="left">A Passionate Software Artisan</h3>
 
-- I am a tech enthusiast and real world problem solver with technology. Currently serving as a Digital Solutions and Services Lead Engineer at Banglalink Digital Communications Ltd. (VEON Group), one of the leading telecom industry in Bangladesh. I have worked for:
+- I am a tech enthusiast and real world problem solver with technology. Currently serving as a Senior Solutions Architect in Software Engineering - Digital Dept. at Grameenphone Ltd. , Largest Telecom Service Provider in Bangladesh. I have worked for:
 
-    - Grameenphone on myGP mobile app [as SWE] [App](https://apps.apple.com/sb/app/mygp-bangladesh/id1128691313)
+    - Grameenphone on myGP mobile app [as Senior Software Architect] [App](https://apps.apple.com/sb/app/mygp-bangladesh/id1128691313)
     - Telenor Myanmar on myTelenor mobile app, currently Atom [as Tech Lead] [App](https://apps.apple.com/rs/app/atom-store-myanmar/id1635954563)
     - Telenor DTAC on DtacApp mobile app [as Lead SWE] [App](https://apps.apple.com/us/app/dtac/id366758142)
     - Banglalink on API Gateway[as Lead SWE] [Website](https://openapi.banglalink.net)
@@ -22,7 +22,7 @@ I have 10+ years of experience in software industry and follower of best practic
     - [https://devsonket.com/](https://github.com/ferdousulhaque/devsonket.github.io)
     - [cabot-monitoring](https://github.com/ferdousulhaque/cabot-monitoring)
 
-- 📫 Reach me at **ferdousul.haque@gmail.com**
+- 📫 Reach me at **ferdousul.haque@gmail.com** and for mentorship ADPList
 
 ![Ferdous's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdousulhaque&theme=ayu-mirage&show_icons=true)
 
